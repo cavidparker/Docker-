@@ -1,5 +1,8 @@
 # Docker: 
 
+## Check your docker version in your computer :
+- docker --version
+
 ### Build docker images :
 - docker build -t cavidparker101/testflask .
 ### How To Run :
