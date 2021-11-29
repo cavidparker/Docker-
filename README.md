@@ -12,3 +12,6 @@
 ### How to pull docker images in docker hub:
 - docker pull cavidparker101/testflask
 
+
+## Deploy Machine Learning Pipeline on Google Kubernetes Engine
+https://towardsdatascience.com/deploy-machine-learning-model-on-google-kubernetes-engine-94daac85108b
