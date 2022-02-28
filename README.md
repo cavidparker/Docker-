@@ -9,6 +9,7 @@
 ### Build docker images :
 - docker build -t cavidparker101/testflask .
 ### How To Run :
+- sudo docker run -p 8000:8000 image_name
 - docker run --rm -p 5000:5000 cavidparker101/testflask
 ### How to push docker image into docker hub:
 - docker push cavidparker101/testflask
