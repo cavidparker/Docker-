@@ -3,6 +3,9 @@
 ## Check your docker version in your computer :
 - docker --version
 
+## Docker Build
+- docker build -t image_name .
+
 ### Build docker images :
 - docker build -t cavidparker101/testflask .
 ### How To Run :
